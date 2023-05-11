@@ -104,8 +104,8 @@ h3 {
   position: fixed;
   width: fit-content;
   height: fit-content;
-  top: 10px;
-  left: 10px;
+  top: 750px;
+  left: 750px;
 }
 #weather > span {
   top: 10px;
